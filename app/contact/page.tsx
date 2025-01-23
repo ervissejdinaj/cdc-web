@@ -22,8 +22,8 @@ export default function Contact() {
             transition={{ delay: 0.2 }}
           >
             <p className="text-gray-400 text-lg mb-8">
-              We're always open for new opportunities and interesting projects.
-              Let's create something great together!
+              Ne jemi gjithmonë të hapura për të reja mundësi dhe projekte të
+              interesante. Lidhni në një projekt të mrekullueshëm!
             </p>
 
             <div className="space-y-4">
