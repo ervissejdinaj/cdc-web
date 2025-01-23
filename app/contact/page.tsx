@@ -23,7 +23,7 @@ export default function Contact() {
           >
             <p className="text-gray-400 text-lg mb-8">
               Ne jemi gjithmonë të hapura për të reja mundësi dhe projekte të
-              interesante. Lidhni në një projekt të mrekullueshëm!
+              interesante. Le të krijojmë diçka të mrekullueshme së bashku!
             </p>
 
             <div className="space-y-4">
